@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../DELTA WEB DEVELOPMENT"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"."
+		],
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
